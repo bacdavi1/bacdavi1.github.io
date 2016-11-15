@@ -1,1 +1,17 @@
-
+h1 {color:forestgreen} 
+h1 {background-color:gold}
+body {background-color:lightgoldenrodyellow}
+h2 {color:aqua}
+body {background-image:url("")}
+p {color:aqua}
+p {background-color:green}
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 50px 70px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+ 
